@@ -1,0 +1,5 @@
+{
+  "version": "0.0.1",
+  "url": "https://harrymkt.github.io/nvgtpkg/files/script_detect.zip",
+  "description": "A script to detect whether it is run from source or compiled executable"
+}
